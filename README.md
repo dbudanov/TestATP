@@ -2,4 +2,4 @@
 Testna verzija repozitorija
 
 # Uvod
-Ovo je neki tekst za vježbu. 
+Ja sam u zadru.
